@@ -4,11 +4,9 @@
 http://115.146.176.131:80/play/5i_LtAbpY7PhHy5sbZlWo_iAWJn4CJB5aLapb9IGyU8/ts
 
 #EXTINF:0 CUID="4" tvg-chno="2" tvg-name="🇵🇭 Kapamilya Channel" tvg-ID="kapamilyachannel.ph" tvg-logo="https://i.imgur.com/KlivQkl.png" group-title="Vizco IPTV 2024 Happy Watching. Click update to refresh channels",🇵🇭 Kapamilya Channel
-
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd?ck=eyJiZDE3YWZiNWRjOTY0OGEzOWJlNzllZTM2MzRkZDRiOCI6IjNlY2YzMDVkNTRhNzcyOTI5OWI5M2EzZDY5YzAyZWE1In0%3D
 
 #EXTINF:0 CUID="4" tvg-chno="2" tvg-name="🇵🇭 Kapamilya Channel" tvg-ID="kapamilyachannel.ph" tvg-logo="https://i.imgur.com/KlivQkl.png" group-title="Vizco IPTV 2024 Happy Watching. Click update to refresh channels",🇵🇭 Kapamilya Channel
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
