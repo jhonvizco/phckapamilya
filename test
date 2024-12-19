@@ -3,11 +3,11 @@
 #EXTINF:0 CUID="648" tvg-name="All TV" tvg-ID="dummy-648" tvg-logo="https://i.imgur.com/72WJWhZ.jpg" group-title="Vizco IPTV 2025  Happy Watching. Click update to refresh channels",All TV
 http://115.146.176.131:80/play/5i_LtAbpY7PhHy5sbZlWo_iAWJn4CJB5aLapb9IGyU8/ts
 
-#EXTINF:0 CUID="4" tvg-chno="2" tvg-name="🇵🇭 Kapamilya Channel" tvg-ID="kapamilyachannel.ph" tvg-logo="https://i.imgur.com/KlivQkl.png" group-title="Vizco IPTV 2024 Happy Watching. Click update to refresh channels.",🇵🇭 Kapamilya Channel
+#EXTINF:0 CUID="4" tvg-chno="2" tvg-name="🇵🇭 Kapamilya Channel" tvg-ID="kapamilyachannel.ph" tvg-logo="https://i.imgur.com/KlivQkl.png" group-title="Vizco IPTV 2024 Happy Watching. Click update to refresh channels",🇵🇭 Kapamilya Channel
 
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd?ck=eyJiZDE3YWZiNWRjOTY0OGEzOWJlNzllZTM2MzRkZDRiOCI6IjNlY2YzMDVkNTRhNzcyOTI5OWI5M2EzZDY5YzAyZWE1In0%3D
 
-#EXTINF:0 CUID="4" tvg-chno="2" tvg-name="🇵🇭 Kapamilya Channel" tvg-ID="kapamilyachannel.ph" tvg-logo="https://i.imgur.com/KlivQkl.png" group-title="Vizco IPTV 2024 Happy Watching. Click update to refresh channels.",🇵🇭 Kapamilya Channel
+#EXTINF:0 CUID="4" tvg-chno="2" tvg-name="🇵🇭 Kapamilya Channel" tvg-ID="kapamilyachannel.ph" tvg-logo="https://i.imgur.com/KlivQkl.png" group-title="Vizco IPTV 2024 Happy Watching. Click update to refresh channels",🇵🇭 Kapamilya Channel
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -244,8 +244,6 @@ https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_animax_sd.mpd
 #KODIPROP:inputstream.adaptive.license_key=a2d1f552ff9541558b3296b5a932136b:cdd48fa884dc0c3a3f85aeebca13d444
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cartoonnetworkhd.mpd
 
-
-
 #EXTINF:-1 tvg-id="Nick Jr. HD - [Channel 472].id" tvg-name="" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/544627ef-b613-4f03-86c9-037e51bd8747/dg81i5p-9a91c59b-1204-45af-bd05-2b80e17ea4b2.png/v1/fill/w_847,h_646/nick_jr__splat_3d_logo_with_2_objects_by_markthenostalgiafan_dg81i5p-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjQ2IiwicGF0aCI6IlwvZlwvNTQ0NjI3ZWYtYjYxMy00ZjAzLTg2YzktMDM3ZTUxYmQ4NzQ3XC9kZzgxaTVwLTlhOTFjNTliLTEyMDQtNDVhZi1iZDA1LTJiODBlMTdlYTRiMi5wbmciLCJ3aWR0aCI6Ijw9ODQ3In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.QrDR2E_SihXaeqHrYPxnlHesyT1kf2SObY6cdT-jBrY" group-title="Vizco IPTV 2025  Happy Watching. Click update to refresh channels", Nick JR.
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -409,8 +407,6 @@ https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/depedch_sd.mpd
 #EXTINF:0 CUID="209" tvg-chno="206" tvg-name="MYX" tvg-ID="myx.ph" tvg-logo="https://i.imgur.com/fxcZAd8.png" group-title="Vizco IPTV 2025  Happy Watching. Click update to refresh channels",MYX
 https://myxnola-abscbn-ono.amagi.tv/index.m3u8
 
-
-
 #EXTINF:0 CUID="217" tvg-chno="213" tvg-name="Vevo 2K Music" tvg-ID="dummy-217" tvg-logo="https://logo.iptveditor.com/vevo.png" group-title="Vizco IPTV 2025  Happy Watching. Click update to refresh channels",Vevo 2K Music
 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungnz/playlist.m3u8
@@ -562,8 +558,6 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/cg_uaap_cplay_sd.mpd
 #KODIPROP:inputstream.adaptive.license_type=Clearkey
 #KODIPROP:inputstream.adaptive.license_key=9bfeb5068725617dbad6338473da6d10:06577ffcc4935ba24aff4c4c9dd6846d
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
-
-
 
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/Radyo5truefmlogo.webp" group-title="Vizco IPTV 2025  Happy Watching. Click update to refresh channels", TrueFM TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
