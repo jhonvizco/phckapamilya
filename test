@@ -135,6 +135,7 @@ https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/truefm_tv.mpd
 
 #EXTM3U
 #EXTINF:0 CUID="26" tvg-chno="24" tvg-name="TFC" tvg-ID="tfc.ph" tvg-logo="https://i.imgur.com/waE1BeJ.png" group-title="Vizco IPTV 2025 Happy Watching. Click update to refresh channels.",TFC
+http://aabb.is:2095/play/live.php?mac=00:1A:79:B5:C8:07&stream=41224&extension=ts
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:f12142af8f39b3bab79d3679d3665ebe
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnono/index.mpd
@@ -229,14 +230,17 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_moonbug_kids_sd.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0bf00921bec94a65a124fba1ef52b1cd:0f1488487cbe05e2badc3db53ae0f29f
-https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_moonbug_kids_sd.mpd
+#KODIPROP:inputstream.adaptive.license_key=564b3b1c781043c19242c66e348699c5:d3ad27d7fe1f14fb1a2cd5688549fbab
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_dreamworktag.mpd
 
+#EXTINF:0 CUID="646" tvg-name="Dreamworks Tagalog" tvg-ID="dreamworks.sg" tvg-logo="https://logo.iptveditor.com/beindreamwork.png" group-title="Vizco IPTV 2024 Happy Watching. Click update to refresh channels.",Dreamworks Tagalog
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=564b3b1c781043c19242c66e348699c5:d3ad27d7fe1f14fb1a2cd5688549fbab
-https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_dreamworktag.mpd
+#KODIPROP:inputstream.adaptive.license_key=0bf00921bec94a65a124fba1ef52b1cd:0f1488487cbe05e2badc3db53ae0f29f
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_moonbug_kids_sd.mpd
+
+
 
 #EXTINF:0 tvg-id="" tvg-logo="logo_url" group-title="Local", 42. MOONBUG KIDS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -560,13 +564,6 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/arirang_sd.mpd
 #KODIPROP:inputstream.adaptive.license_key=22ff2347107e4871aa423bea9c2bd363:c6e7ba2f48b3a3b8269e8bc360e60404
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_kbsworld.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQJPFoJT8wSlaXKF5vQtPEpw9sZGX73rAIyvVoFzL-ShWz2xMUEiV9PlEbJMygTa2zgm0&usqp=CAU" group-title="Vizco IPTV 2025  Happy Watching. Click update to refresh channels.",CCTV4
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0f8541ec412b11edb8780242ac120002:6cf16c272b7357c48cd47061799a4963
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cctv4.mpd
-
 #EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Vizco IPTV 2025  Happy Watching. Click update to refresh channels.", CGTN
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -580,7 +577,6 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_cgtn.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ef7d9dcfb99b406cb79fb9f675cba426:b24094f6ca136af25600e44df5987af4
 https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/bloomberg_sd.mpd
-
 
 #EXTINF:0 CUID="209" tvg-chno="206" tvg-name="MYX" tvg-ID="myx.ph" tvg-logo="https://i.imgur.com/fxcZAd8.png" group-title="Vizco IPTV 2025  Happy Watching. Click update to refresh channels.",MYX
 https://myxnola-abscbn-ono.amagi.tv/index.m3u8
@@ -596,7 +592,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungnz/pla
 #KODIPROP:inputstream.adaptive.license_key=971ebbe2d887476398e97c37e0c5c591:472aa631b1e671070a4bf198f43da0c7
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_fashiontvhd.mpd
 
-#EXTINF:0 tvg-id="" tvg-logo="https://cms.cignal.tv/Upload/Images//Landing%20Page%20Banner%20ONE%20X.jpg" group-title="Vizco IPTV 2025  Happy Watching. Click update to refresh channels.",POPUP PPV HD
+#EXTINF:0 tvg-id="" tvg-logo="https://cms.cignal.tv/Upload/Images/CignalWebsite-AddOns-PPVIcon-1.png" group-title="Vizco IPTV 2025  Happy Watching. Click update to refresh channels.",POPUP PPV HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
