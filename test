@@ -4,8 +4,9 @@
 http://115.146.176.131:80/play/5i_LtAbpY7PhHy5sbZlWo_iAWJn4CJB5aLapb9IGyU8/ts
 
 #EXTINF:0 CUID="4" tvg-chno="2" tvg-name="🇵🇭 Kapamilya Channel" tvg-ID="kapamilyachannel.ph" tvg-logo="https://i.imgur.com/KlivQkl.png" group-title="Vizco IPTV 2025 Happy Watching. Click update to refresh channels",🇵🇭 Kapamilya Channel
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
 
