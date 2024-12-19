@@ -5,9 +5,7 @@ http://115.146.176.131:80/play/5i_LtAbpY7PhHy5sbZlWo_iAWJn4CJB5aLapb9IGyU8/ts
 
 #EXTINF:0 CUID="4" tvg-chno="2" tvg-name="🇵🇭 Kapamilya Channel" tvg-ID="kapamilyachannel.ph" tvg-logo="https://i.imgur.com/KlivQkl.png" group-title="Vizco IPTV 2025 Happy Watching. Click update to refresh channels",🇵🇭 Kapamilya Channel
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
 
@@ -32,10 +30,6 @@ https://ott.studentsdemo.com/stream/phcathenatv/gma/master.m3u8?u=phc&p=1ed3395b
 #EXTINF:0 CUID="221" tvg-chno="2" tvg-name="GTV" tvg-ID="gtv.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/GTV_Philippines_Logo_Vector.svg/512px-GTV_Philippines_Logo_Vector.svg.png" group-title="Vizco IPTV 2025  Happy Watching. Click update to refresh channels.",GTV
 
 https://ott.studentsdemo.com/stream/phcathenatv/gtv/master.m3u8?u=phc&p=1ed3395bba4d481a74e631943df9643663da8f300a8edececcb8b7da46349f01
-
-#EXTINF:0 CUID="221" tvg-chno="2" tvg-name="GTV" tvg-ID="gtv.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/GTV_Philippines_Logo_Vector.svg/512px-GTV_Philippines_Logo_Vector.svg.png" group-title="Vizco IPTV 2025  Happy Watching. Click update to refresh channels.",GTV
-
-http://115.146.176.131:80/play/5i_LtAbpY7PhHy5sbZlWo41V4XcHK5Lccd5m3a-e0MA/ts
 
 #EXTINF:0 CUID="10" tvg-chno="7" tvg-name="🇵🇭 A2Z" tvg-ID="a2z.ph" tvg-logo="https://i.imgur.com/43nZ2rv.png" group-title="Vizco IPTV 2025  Happy Watching. Click update to refresh channels.",🇵🇭 A2Z
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -139,10 +133,23 @@ https://teleradyo-abscbn-ono.amagi.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=0559c95496d44fadb94105b9176c3579:40d8bb2a46ffd03540e0c6210ece57ce
 https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/truefm_tv.mpd
 
+#EXTM3U
+#EXTINF:0 CUID="26" tvg-chno="24" tvg-name="TFC" tvg-ID="tfc.ph" tvg-logo="https://i.imgur.com/waE1BeJ.png" group-title="Vizco IPTV 2025 Happy Watching. Click update to refresh channels.",TFC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:f12142af8f39b3bab79d3679d3665ebe
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnono/index.mpd
+
 #EXTINF:0 CUID="30" tvg-chno="28" tvg-name="AXN" tvg-ID="axn.sg" tvg-logo="https://i.imgur.com/OO6mWTx.png" group-title="Vizco IPTV 2025  Happy Watching. Click update to refresh channels.",AXN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd5d928f5d974ca4983f6e9295dfe410:3aaa001ddc142fedbb9d5557be43792f
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_axn_sd.mpd
+
+#EXTINF:0 tvg-id="" tvg-logo="data:image/png;base64,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" group-title="Vizco IPTV 2025  Happy Watching. Click update to refresh channels.", Crime Investigation
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=21e2843b561c4248b8ea487986a16d33:db6bb638ccdfc1ad1a3e98d728486801
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_crime_invest.mpd
 
 #EXTINF:0 CUID="37" tvg-chno="35" tvg-name="TLC" tvg-ID="tlc.sg" tvg-logo="https://imgur.com/Nbk3B6D.jpg" group-title="Vizco IPTV 2025  Happy Watching. Click update to refresh channels.",TLC
 
@@ -212,12 +219,31 @@ https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_nickjr.mpd
 #KODIPROP:inputstream.adaptive.license_key=4ab9645a2a0a47edbd65e8479c2b9669:8cb209f1828431ce9b50b593d1f44079
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_dreamworks_hd1.mpd
 
-#EXTINF:0 CUID="646" tvg-name="Dreamworks Tagalog" tvg-ID="dreamworks.sg" tvg-logo="https://logo.iptveditor.com/beindreamwork.png" group-title="Vizco IPTV 2025  Happy Watching. Click update to refresh channels.",Dreamworks Tagalog
+#EXTINF:0 tvg-id="Moonbugkids" group-title="Vizco IPTV 2025  Happy Watching. Click update to refresh channels." ch-number="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Moonbug_Kids.svg",Moon Bug kids
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0bf00921bec94a65a124fba1ef52b1cd:0f1488487cbe05e2badc3db53ae0f29f
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_moonbug_kids_sd.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0bf00921bec94a65a124fba1ef52b1cd:0f1488487cbe05e2badc3db53ae0f29f
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_moonbug_kids_sd.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=564b3b1c781043c19242c66e348699c5:d3ad27d7fe1f14fb1a2cd5688549fbab
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_dreamworktag.mpd
+
+#EXTINF:0 tvg-id="" tvg-logo="logo_url" group-title="Local", 42. MOONBUG KIDS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0bf00921bec94a65a124fba1ef52b1cd:0f1488487cbe05e2badc3db53ae0f29f
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_moonbug_kids_sd.mpd
 
 #EXTINF:0 CUID="20" tvg-chno="18" tvg-name="Buko Channel" tvg-ID="buko.ph" tvg-logo="https://i.imgur.com/Wv0K5Yc.png" group-title="Vizco IPTV 2025  Happy Watching. Click update to refresh channels.",Buko Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -425,8 +451,11 @@ https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/travel_channel_sd.mpd
 
 #EXTINF:0 CUID="66" tvg-chno="64" tvg-name="🏀 NBA Philippines" tvg-ID="dummy-66" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/NBA_TV_Philippines.png" group-title="Vizco IPTV 2025  Happy Watching. Click update to refresh channels.",🏀 NBA Philippines
 
-https://iptv.djdoolky76.net/stream/iptv/nbatvphilippines/master.m3u8?u=djdoolky76&p=f4e49c0ae8a26be9d5b10934f240cc4d4e7ea4f84c7c7e69b071dc3e23868d3a
-http://115.146.176.131:80/play/5i_LtAbpY7PhHy5sbZlWo4EDvaOXDkTskxk-MO00xMA/ts
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f36eed9e95f140fabbc88a08abbeafff:0125600d0eb13359c28bdab4a2ebe75a
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd
 
 #EXTINF:0 CUID="163" tvg-chno="159" tvg-name="🏀 PBA Rush" tvg-ID="pbarush.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/PBA_Rush_logo.png" group-title="Vizco IPTV 2025  Happy Watching. Click update to refresh channels.",🏀 PBA Rush
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -517,6 +546,42 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_2.m
 #EXTINF:0 CUID="204" tvg-chno="193" tvg-name="BBC News" tvg-ID="bbcnews.uk" tvg-logo="https://logo.iptveditor.com/bbcnews.png" group-title="Vizco IPTV 2025  Happy Watching. Click update to refresh channels.",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
 
+#EXTINF:0 CUID="195" tvg-chno="192" tvg-name="Arirang" tvg-ID="arirang.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Arirang.svg/512px-Arirang.svg.png" group-title="Vizco IPTV 2025 Happy Watching. Click update to refresh channels.",Arirang
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=13815d0fa026441ea7662b0c9de00bcf:2d99a55743677c3879a068dd9c92f824
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/arirang_sd.mpd
+
+#EXTINF:0 CUID="196" tvg-chno="194" tvg-name="KBS world" tvg-ID="kbsworld.sg" tvg-logo="https://i.imgur.com/JAL3Ohz.png" group-title="Vizco IPTV 2025 Happy Watching. Click update to refresh channels.",KBS world
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=22ff2347107e4871aa423bea9c2bd363:c6e7ba2f48b3a3b8269e8bc360e60404
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_kbsworld.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQJPFoJT8wSlaXKF5vQtPEpw9sZGX73rAIyvVoFzL-ShWz2xMUEiV9PlEbJMygTa2zgm0&usqp=CAU" group-title="Vizco IPTV 2025  Happy Watching. Click update to refresh channels.",CCTV4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f8541ec412b11edb8780242ac120002:6cf16c272b7357c48cd47061799a4963
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cctv4.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Vizco IPTV 2025  Happy Watching. Click update to refresh channels.", CGTN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f854ee4412b11edb8780242ac120002:9f2c82a74e727deadbda389e18798d55
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_cgtn.mpd
+
+#EXTINF:0 CUID="193" tvg-chno="190" tvg-name="Bloomberg TV" tvg-ID="bloombergtv.us" tvg-logo="https://www.pngitem.com/pimgs/m/17-172093_bloomberg-tv-logo-png-transparent-png.png" group-title="Vizco IPTV 2025 Happy Watching. Click update to refresh channels.",Bloomberg TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ef7d9dcfb99b406cb79fb9f675cba426:b24094f6ca136af25600e44df5987af4
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/bloomberg_sd.mpd
+
+
 #EXTINF:0 CUID="209" tvg-chno="206" tvg-name="MYX" tvg-ID="myx.ph" tvg-logo="https://i.imgur.com/fxcZAd8.png" group-title="Vizco IPTV 2025  Happy Watching. Click update to refresh channels.",MYX
 https://myxnola-abscbn-ono.amagi.tv/index.m3u8
 
@@ -530,3 +595,11 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungnz/pla
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=971ebbe2d887476398e97c37e0c5c591:472aa631b1e671070a4bf198f43da0c7
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_fashiontvhd.mpd
+
+#EXTINF:0 tvg-id="" tvg-logo="https://cms.cignal.tv/Upload/Images//Landing%20Page%20Banner%20ONE%20X.jpg" group-title="Vizco IPTV 2025  Happy Watching. Click update to refresh channels.",POPUP PPV HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=286e1c2d622c4c73b5c3d72e4a848abd:b7fad67599c1ce3c2fbc9d02b901be05
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_popupppvhd.mpd
+
