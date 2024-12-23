@@ -138,6 +138,11 @@ https://teleradyo-abscbn-ono.amagi.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=0559c95496d44fadb94105b9176c3579:40d8bb2a46ffd03540e0c6210ece57ce
 https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/truefm_tv.mpd
 
+#EXTINF:0 CUID="25" tvg-chno="23" tvg-name="DZRH" tvg-ID="dummy-25" tvg-logo="https://i.imgur.com/P1mCl2k.png" group-title="Vizco IPTV 2024 Happy Watching. Click update to refresh channels.",DZRH
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001174/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
 #EXTM3U
 #EXTINF:0 CUID="26" tvg-chno="24" tvg-name="TFC" tvg-ID="tfc.ph" tvg-logo="https://i.imgur.com/waE1BeJ.png" group-title="Vizco IPTV 2025 Happy Watching. Click update to refresh channels.",TFC
 http://aabb.is:2095/play/live.php?mac=00:1A:79:B5:C8:07&stream=41224&extension=ts
