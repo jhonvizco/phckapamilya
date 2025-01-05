@@ -138,7 +138,7 @@ https://teleradyo-abscbn-ono.amagi.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=0559c95496d44fadb94105b9176c3579:40d8bb2a46ffd03540e0c6210ece57ce
 https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/truefm_tv.mpd
 
-#EXTINF:0 CUID="25" tvg-chno="23" tvg-name="DZRH" tvg-ID="dummy-25" tvg-logo="https://i.imgur.com/P1mCl2k.png" group-title="Vizco IPTV 2024 Happy Watching. Click update to refresh channels.",DZRH
+#EXTINF:0 CUID="25" tvg-chno="23" tvg-name="DZRH" tvg-ID="dummy-25" tvg-logo="https://i.imgur.com/P1mCl2k.png" group-title="Vizco IPTV 2025  Happy Watching. Click update to refresh channels.",DZRH
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001174/manifest.mpd?virtualDomain=001.live_hls.zte.com
@@ -164,7 +164,7 @@ https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_crime_invest.mpd
 
 #EXTINF:0 CUID="37" tvg-chno="35" tvg-name="TLC" tvg-ID="tlc.sg" tvg-logo="https://imgur.com/Nbk3B6D.jpg" group-title="Vizco IPTV 2025  Happy Watching. Click update to refresh channels.",TLC
 
-https://iptv.djdoolky76.net/stream/iptv/tlc/master.m3u8?u=djdoolky76&p=f4e49c0ae8a26be9d5b10934f240cc4d4e7ea4f84c7c7e69b071dc3e23868d3a
+http://fl2.moveonjoy.com/TLC/index.m3u8
 
 #EXTINF:0 CUID="16" tvg-chno="17" tvg-name="AFN asian food network" tvg-ID="afn.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/512px-Asian_Food_Network.svg.png" group-title="Vizco IPTV 2025  Happy Watching. Click update to refresh channels.",AFN asian food network
 
@@ -245,7 +245,7 @@ https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_dreamworktag.mpd
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_moonbug_kids_sd.mpd
 
 
-#EXTINF:0 CUID="646" tvg-name="Dreamworks Tagalog" tvg-ID="dreamworks.sg" tvg-logo="https://logo.iptveditor.com/beindreamwork.png" group-title="Vizco IPTV 2024 Happy Watching. Click update to refresh channels.",Dreamworks Tagalog
+#EXTINF:0 CUID="646" tvg-name="Dreamworks Tagalog" tvg-ID="dreamworks.sg" tvg-logo="https://logo.iptveditor.com/beindreamwork.png" group-title="Vizco IPTV 2025  Happy Watching. Click update to refresh channels.",Dreamworks Tagalog
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -254,7 +254,7 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_moonbug_kids_sd.mpd
 
 
 
-#EXTINF:0 tvg-id="" tvg-logo="logo_url" group-title="Local", 42. MOONBUG KIDS
+#EXTINF:0 tvg-id="" tvg-logo="logo_url" group-title="Vizco IPTV 2025  Happy Watching. Click update to refresh channels.",  MOONBUG KIDS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -382,7 +382,9 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_thrill_sd.mpd
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockentertainment.mpd
 
 #EXTINF:0 CUID="126" tvg-chno="124" tvg-name="Rock Action" tvg-ID="rockaction.sg" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2022/10/10105014/Rock-Action_image-thumb-1024x576.jpg" group-title="Vizco IPTV 2025  Happy Watching. Click update to refresh channels.",Rock Action
-http://aabb.is:2095/play/live.php?mac=00:1A:79:B5:C8:07&stream=463654&extension=ts
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2341c2ecd3cf4865881bb0fa1287de8f:ad45202e64f66ef36b3f60fac93cc47f
+https://tglmp04.akamaized.net/out/v1/421a3cd3bdcd492f8f4b5efb2363ed2c/manifest.mpd
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/vGEL2Ne.png" group-title="Vizco IPTV 2025  Happy Watching. Click update to refresh channels.",Warner TV 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -414,8 +416,9 @@ https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_tapedge.mpd
 
 
 #EXTINF:0 CUID="146" tvg-chno="142" tvg-name="Animal Planet" tvg-ID="animalplanet.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="Vizco IPTV 2025  Happy Watching. Click update to refresh channels.",Animal Planet
-
-https://iptv.djdoolky76.net/stream/iptv/animalplanet/master.m3u8?u=djdoolky76&p=f4e49c0ae8a26be9d5b10934f240cc4d4e7ea4f84c7c7e69b071dc3e23868d3a
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=436b69f987924fcbbc06d40a69c2799a:c63d5b0d7e52335b61aeba4f6537d54d
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_animal_planet_sd.mpd
 
 #EXTINF:0 CUID="147" tvg-chno="143" tvg-name="Love Nature" tvg-ID="lovenature.ca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt4vNBg3ZJVm7ZU3fhukZcVVNwWbdcTx_2PpZ1z6aVfnXJKIu9mdyfv56AO-q5ejdM-PU&usqp=CAU" group-title="Vizco IPTV 2025  Happy Watching. Click update to refresh channels.",Love Nature
 
@@ -434,7 +437,7 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_bbcearth_hd1.mpd
 
 #EXTINF:0 CUID="148" tvg-chno="144" tvg-name="Discovery Channel" tvg-ID="discovery.ph" tvg-logo="https://i.imgur.com/t6iJj37.png" group-title="Vizco IPTV 2025  Happy Watching. Click update to refresh channels.",Discovery Channel
 
-https://iptv.djdoolky76.net/stream/iptv/discoverychannel/master.m3u8?u=djdoolky76&p=f4e49c0ae8a26be9d5b10934f240cc4d4e7ea4f84c7c7e69b071dc3e23868d3a
+http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 
 #EXTINF:0 CUID="642" tvg-name="Discovery Asia" tvg-ID="discoveryasia.sg" tvg-logo="https://logo.iptveditor.com/discoveryasia.png" group-title="Vizco IPTV 2025  Happy Watching. Click update to refresh channels.",Discovery Asia
 
@@ -611,7 +614,7 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_fashiontvhd.mpd
 #KODIPROP:inputstream.adaptive.license_key=286e1c2d622c4c73b5c3d72e4a848abd:b7fad67599c1ce3c2fbc9d02b901be05
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_popupppvhd.mpd
 
-#EXTINF:-1 tvg-id="411.astro" tvg-logo="https://iili.io/Jmo9Eg4.png" group-title="GENERAL MOVIES",HBO
+#EXTINF:-1 tvg-id="411.astro" tvg-logo="https://iili.io/Jmo9Eg4.png" group-title="Vizco IPTV 2025  Happy Watching. Click update to refresh channels.",HBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -620,7 +623,7 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_popupppvhd.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
-#EXTINF:-1 tvg-id="414.astro" tvg-logo="https://iili.io/Jmo9css.png" group-title="GENERAL MOVIES",HBO Family
+#EXTINF:-1 tvg-id="414.astro" tvg-logo="https://iili.io/Jmo9css.png" group-title="Vizco IPTV 2025  Happy Watching. Click update to refresh channels.",HBO Family
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -629,7 +632,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
  
-#EXTINF:-1 tvg-id="415.astro" tvg-logo="https://iili.io/Jmo90qG.png" group-title="GENERAL MOVIES",HBO Hits
+#EXTINF:-1 tvg-id="415.astro" tvg-logo="https://iili.io/Jmo90qG.png" group-title="Vizco IPTV 2025  Happy Watching. Click update to refresh channels.",HBO Hits
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -638,7 +641,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
  
-#EXTINF:-1 tvg-id="HBO Signature HD" tvg-logo="https://iili.io/Jmo911f.png" group-title="GENERAL MOVIES",HBO Signature
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-logo="https://iili.io/Jmo911f.png" group-title="Vizco IPTV 2025  Happy Watching. Click update to refresh channels.",HBO Signature
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -647,7 +650,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
  
-#EXTINF:-1 tvg-id="412.astro" tvg-logo="https://iili.io/Jmo95bt.png" group-title="GENERAL MOVIES",Cinemax
+#EXTINF:-1 tvg-id="412.astro" tvg-logo="https://iili.io/Jmo95bt.png" group-title="Vizco IPTV 2025  Happy Watching. Click update to refresh channels.",Cinemax
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
