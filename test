@@ -32,6 +32,9 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd
 
 https://ott.studentsdemo.com/stream/phcathenatv/gma/master.m3u8?u=phc&p=952839dd924747ba61aac23a9311e8c8ff7013327d77fcf7df5067d0cea83fc4
 
+#EXTINF:0 CUID="" tvg-chno="" tvg-name="🇵🇭 GMA 7" tvg-ID="kapamilyachannel.ph" tvg-logo="https://i.imgur.com/w14QgTQ.png" group-title="Vizco IPTV 2025 Happy Watching.",🇵🇭 GMA 7 Online
+https://raw.githubusercontent.com/jhonvizco/phckapamilya/refs/heads/main/Kapuso
+
 #EXTINF:0 CUID="221" tvg-chno="2" tvg-name="GTV" tvg-ID="gtv.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/GTV_Philippines_Logo_Vector.svg/512px-GTV_Philippines_Logo_Vector.svg.png" group-title="Vizco IPTV 2025  Happy Watching.",GTV
 
 https://ott.studentsdemo.com/stream/phcathenatv/gtv/master.m3u8?u=phc&p=952839dd924747ba61aac23a9311e8c8ff7013327d77fcf7df5067d0cea83fc4
